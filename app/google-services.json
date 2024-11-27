@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137482306350",
+    "project_id": "handcraftshop-a962f",
+    "storage_bucket": "handcraftshop-a962f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137482306350:android:e4577e5637066f440330bf",
+        "android_client_info": {
+          "package_name": "com.ayesha.handcraftshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6GD7kUf5epbvUGu5o0Mx7wfb52tYG5KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
