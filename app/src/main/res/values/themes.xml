@@ -1,9 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.HandcraftShop" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.HandcraftsShop" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.HandcraftShop" parent="Base.Theme.HandcraftShop" />
+    <style name="Theme.HandcraftsShop" parent="Base.Theme.HandcraftsShop" />
+
+    <style name="ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@android:color/transparent</item>
+    </style>
 </resources>
